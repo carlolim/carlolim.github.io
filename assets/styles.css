@@ -264,3 +264,7 @@ section:nth-last-child(1) {
     margin-left: -15rem;
   }
 }
+
+#achievements .section-title {
+  font-size: 2.5em;
+}
